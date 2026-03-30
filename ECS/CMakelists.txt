@@ -1,5 +1,5 @@
 # Name the project here
-project(EmptyProject)
+project(ECS)
 
 # do not touch
 set(HEADER_DIR ${CMAKE_CURRENT_SOURCE_DIR}/include)

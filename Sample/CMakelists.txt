@@ -59,7 +59,7 @@ target_include_directories(${PROJECT_NAME}
 
 target_link_libraries(${PROJECT_NAME}
     PUBLIC
-    EmptyProject
+    ECS
   # YourLib
   # ${MYLIB_LIB}/YourLib.lib
     PRIVATE

@@ -21,7 +21,7 @@ set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
 # Add you project here
 add_subdirectory(Sample)
-add_subdirectory(EmptyProject)
+add_subdirectory(ECS)
 
 # Define the StartUp project
 set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT Sample)
